@@ -1,0 +1,15 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.izv.aff.concesionario.MainActivity">
+    <item
+        android:id="@+id/telefonoc"
+        android:title="Télefono de contacto" />
+    <item
+        android:id="@+id/correo"
+        android:title="Correo" />
+    <item
+        android:id="@+id/redes"
+        android:title="Redes sociales" />
+</menu>
